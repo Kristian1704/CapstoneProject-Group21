@@ -1,0 +1,9 @@
+[VEHICLE:Vehicle_5] 2025-11-14T15:05:18.8381823+01:00 created
+[VEHICLE:Vehicle_5] 2025-11-14T15:06:10.5011719+01:00 Loaded 50 units of 'Masks' for manual task TASK-1
+[VEHICLE:Vehicle_5] 2025-11-14T15:06:10.5067199+01:00 Assigned task TASK-1
+[VEHICLE:Vehicle_5] 2025-11-14T15:10:42.7387847+01:00 created
+[VEHICLE:Vehicle_5] 2025-11-14T15:11:12.1920081+01:00 Loaded 50 units of 'Paracetamol' for manual task TASK-1
+[VEHICLE:Vehicle_5] 2025-11-14T15:11:12.1980281+01:00 Assigned task TASK-1
+[VEHICLE:Vehicle_5] 2025-11-14T15:12:25.5802914+01:00 Item Paracetamol fully delivered and removed from inventory.
+[VEHICLE:Vehicle_5] 2025-11-14T15:12:25.5867081+01:00 Battery drop after manual delivery: 20% → 15%
+[VEHICLE:Vehicle_5] 2025-11-14T15:12:45.5987009+01:00 Battery drop after auto-distribution: 15% → 5%

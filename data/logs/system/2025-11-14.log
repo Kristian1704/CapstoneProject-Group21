@@ -1,0 +1,28 @@
+[SYSTEM] 2025-11-14T15:03:35.5392737+01:00 Task created: Task{id='AUTO-1763129015486', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:04:21.0875868+01:00 Vehicle added: StorageVehicle{id='VH-004', name='Vehicle_4', battery=20%}
+[SYSTEM] 2025-11-14T15:04:32.2198616+01:00 Charging station added: ChargingStation{id='CHG-4', name='Station_4', status=FREE}
+[SYSTEM] 2025-11-14T15:04:47.8031632+01:00 Task created: Task{id='AUTO-1763129087802', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:05:18.8312985+01:00 Vehicle added: StorageVehicle{id='VH-005', name='Vehicle_5', battery=20%}
+[SYSTEM] 2025-11-14T15:06:10.5047172+01:00 Manual Task created: Task{id='TASK-1', description='Manual task', assigneeVehicleId='VH-005', status=PENDING}
+[SYSTEM] 2025-11-14T15:09:26.1188436+01:00 Task created: Task{id='AUTO-1763129366060', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:09:32.4286593+01:00 Vehicle added: StorageVehicle{id='VH-004', name='Vehicle_4', battery=20%}
+[SYSTEM] 2025-11-14T15:09:56.9465629+01:00 Added unassigned item: SKU-001 (Paracetamol), qty=100
+[SYSTEM] 2025-11-14T15:10:24.1425463+01:00 Charging station added: ChargingStation{id='CHG-4', name='Station_4', status=FREE}
+[SYSTEM] 2025-11-14T15:10:30.9768757+01:00 Task created: Task{id='AUTO-1763129430975', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:10:42.7357862+01:00 Vehicle added: StorageVehicle{id='VH-005', name='Vehicle_5', battery=20%}
+[SYSTEM] 2025-11-14T15:11:12.1960125+01:00 Manual Task created: Task{id='TASK-1', description='Manual task', assigneeVehicleId='VH-005', status=PENDING}
+[SYSTEM] 2025-11-14T15:11:25.5622871+01:00 Task TASK-1 -> IN_PROGRESS
+[SYSTEM] 2025-11-14T15:12:25.5772987+01:00 [TASK TASK-1] Delivered 50 of Paracetamol from vehicle Vehicle_5
+[SYSTEM] 2025-11-14T15:16:56.6258575+01:00 Charging station added: ChargingStation{id='1', name='ee', status=FREE}
+[SYSTEM] 2025-11-14T15:17:39.2442526+01:00 Task created: Task{id='AUTO-1763129859223', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:17:49.9251988+01:00 Vehicle added: StorageVehicle{id='1', name='22', battery=20%}
+[SYSTEM] 2025-11-14T15:18:14.9368662+01:00 Task created: Task{id='AUTO-1763129894936', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:33:31.2023832+01:00 Charging station added: ChargingStation{id='1', name='ee', status=FREE}
+[SYSTEM] 2025-11-14T15:33:45.6694568+01:00 Task created: Task{id='AUTO-1763130825649', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:33:58.1906119+01:00 Vehicle added: StorageVehicle{id='1', name='ee', battery=20%}
+[SYSTEM] 2025-11-14T15:34:01.3214276+01:00 Task created: Task{id='AUTO-1763130841321', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:39:16.3657801+01:00 Vehicle added: StorageVehicle{id='1', name='ww', battery=20%}
+[SYSTEM] 2025-11-14T15:39:30.6833075+01:00 Task created: Task{id='AUTO-1763131170667', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:41:56.9986246+01:00 Vehicle added: StorageVehicle{id='VH-004', name='Vehicle_4', battery=20%}
+[SYSTEM] 2025-11-14T15:42:10.2847232+01:00 Task created: Task{id='AUTO-1763131330272', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-14T15:47:05.0194977+01:00 Vehicle added: StorageVehicle{id='VH-004', name='Vehicle_4', battery=20%}

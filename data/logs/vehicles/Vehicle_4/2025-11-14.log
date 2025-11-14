@@ -1,0 +1,31 @@
+[VEHICLE:Vehicle_4] 2025-11-14T15:04:21.0915778+01:00 created
+[VEHICLE:Vehicle_4] 2025-11-14T15:05:07.8202417+01:00  Battery low (10%). Vehicle_4 going to Station_4 for charging...
+[VEHICLE:Vehicle_4] 2025-11-14T15:05:07.8232385+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:Vehicle_4] 2025-11-14T15:05:27.8259404+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 15%
+[VEHICLE:Vehicle_4] 2025-11-14T15:05:47.8313391+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 20%
+[VEHICLE:Vehicle_4] 2025-11-14T15:06:07.8344649+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 25%
+[VEHICLE:Vehicle_4] 2025-11-14T15:06:27.843128+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 30%
+[VEHICLE:Vehicle_4] 2025-11-14T15:06:47.8501673+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 35%
+[VEHICLE:Vehicle_4] 2025-11-14T15:07:07.8539217+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 40%
+[VEHICLE:Vehicle_4] 2025-11-14T15:07:27.8574475+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 45%
+[VEHICLE:Vehicle_4] 2025-11-14T15:09:32.4307054+01:00 created
+[VEHICLE:Vehicle_4] 2025-11-14T15:10:50.996453+01:00  Battery low (10%). Vehicle_4 going to Station_4 for charging...
+[VEHICLE:Vehicle_4] 2025-11-14T15:10:50.9994859+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:Vehicle_4] 2025-11-14T15:11:11.00075+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 15%
+[VEHICLE:Vehicle_4] 2025-11-14T15:11:31.0075164+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 20%
+[VEHICLE:Vehicle_4] 2025-11-14T15:11:51.0113139+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 25%
+[VEHICLE:Vehicle_4] 2025-11-14T15:12:11.0144232+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 30%
+[VEHICLE:Vehicle_4] 2025-11-14T15:12:31.0173978+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 35%
+[VEHICLE:Vehicle_4] 2025-11-14T15:12:51.02155+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 40%
+[VEHICLE:Vehicle_4] 2025-11-14T15:13:11.0273676+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 45%
+[VEHICLE:Vehicle_4] 2025-11-14T15:13:31.0333315+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 50%
+[VEHICLE:Vehicle_4] 2025-11-14T15:13:51.0411921+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 55%
+[VEHICLE:Vehicle_4] 2025-11-14T15:14:11.0571166+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 60%
+[VEHICLE:Vehicle_4] 2025-11-14T15:14:31.0623069+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 65%
+[VEHICLE:Vehicle_4] 2025-11-14T15:14:51.0659684+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 70%
+[VEHICLE:Vehicle_4] 2025-11-14T15:15:11.0688066+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 75%
+[VEHICLE:Vehicle_4] 2025-11-14T15:15:31.0718589+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 80%
+[VEHICLE:Vehicle_4] 2025-11-14T15:15:51.0748893+01:00 🔌 Vehicle_4 charging at Station_4... Battery now 85%
+[VEHICLE:Vehicle_4] 2025-11-14T15:41:57.0066188+01:00 created
+[VEHICLE:Vehicle_4] 2025-11-14T15:42:30.3969932+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:Vehicle_4] 2025-11-14T15:47:05.0304837+01:00 created

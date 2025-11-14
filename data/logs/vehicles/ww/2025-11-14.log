@@ -1,0 +1,10 @@
+[VEHICLE:ww] 2025-11-14T15:39:16.3757748+01:00 created
+[VEHICLE:ww] 2025-11-14T15:39:50.7744479+01:00  Battery low (10%). ww going to Default_Station_1 for charging...
+[VEHICLE:ww] 2025-11-14T15:39:50.7904309+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:ww] 2025-11-14T15:39:50.7984183+01:00  Battery low (10%). ww going to Default_Station_2 for charging...
+[VEHICLE:ww] 2025-11-14T15:40:10.8178754+01:00 🔌 ww charging at Default_Station_2... Battery now 15%
+[VEHICLE:ww] 2025-11-14T15:40:10.8188825+01:00 🔌 ww charging at Default_Station_2... Battery now 20%
+[VEHICLE:ww] 2025-11-14T15:40:30.8263663+01:00 🔌 ww charging at Default_Station_2... Battery now 30%
+[VEHICLE:ww] 2025-11-14T15:40:30.8263663+01:00 🔌 ww charging at Default_Station_2... Battery now 25%
+[VEHICLE:ww] 2025-11-14T15:40:50.8355691+01:00 🔌 ww charging at Default_Station_2... Battery now 35%
+[VEHICLE:ww] 2025-11-14T15:40:50.8366466+01:00 🔌 ww charging at Default_Station_2... Battery now 35%

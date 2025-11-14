@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<BorderPane xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="med.supply.system.DashboardController">
+    <top>
+        <ToolBar>
+            <Button text="Add Vehicle" onAction="#onAddVehicle"/>
+            <Button text="Add Station" onAction="#onAddStation"/>
+            <Button text="Add Item" onAction="#onAddItem"/>
+
+
+            <Button text="Create Task" onAction="#onCreateTask"/>
+            <Button text="Update Task Status" onAction="#onUpdateTaskStatus"/>
+            <Button text="Data Exchange" onAction="#onSimulateExchange"/>
+            <Button text="Archive Logs" onAction="#onArchiveLogs"/>
+            <Button text="Move Log" onAction="#onMoveLog"/>
+            <Button text="Delete Log" onAction="#onDeleteLog"/>
+            <Button text="Open Log" onAction="#onOpenLog"/>
+
+            <Separator/>
+
+            <TextField fx:id="newVehicleName" promptText="New vehicle name" prefWidth="160"/>
+        </ToolBar>
+    </top>
+    <center>
+        <SplitPane dividerPositions="0.5">
+            <items>
+                <VBox spacing="6.0">
+                    <children>
+                        <Label text="Vehicles" style="-fx-font-size: 16"/>
+                        <TableView fx:id="vehicleTable" prefHeight="240.0">
+                            <columns>
+                                <TableColumn fx:id="vIdCol" text="ID" prefWidth="90"/>
+                                <TableColumn fx:id="vNameCol" text="Name" prefWidth="160"/>
+                                <TableColumn fx:id="vBattCol" text="Battery %" prefWidth="100"/>
+                                <TableColumn fx:id="vStationCol" text="Station" prefWidth="160"/>
+                                <TableColumn fx:id="vChargingCol" text="Charging" prefWidth="100"/>
+                            </columns>
+                        </TableView>
+                        <Label text="Charging Stations" style="-fx-font-size: 16"/>
+                        <TableView fx:id="stationTable" prefHeight="160.0">
+                            <columns>
+                                <TableColumn fx:id="sIdCol" text="ID" prefWidth="120"/>
+                                <TableColumn fx:id="sNameCol" text="Name" prefWidth="180"/>
+                                <TableColumn fx:id="sBusyCol" text="Busy" prefWidth="100"/>
+                            </columns>
+                        </TableView>
+                        <Label text="All Items" style="-fx-font-size: 16"/>
+                        <TableView fx:id="itemsTable" prefHeight="200.0">
+                            <columns>
+                                <TableColumn fx:id="iSkuCol" text="SKU" prefWidth="140"/>
+                                <TableColumn fx:id="iNameCol" text="Name" prefWidth="160"/>
+                                <TableColumn fx:id="iQtyCol" text="Quantity" prefWidth="80"/>
+                            </columns>
+                        </TableView>
+                    </children>
+                    <padding><Insets top="8" left="8" right="8" bottom="8"/></padding>
+                </VBox>
+                <VBox spacing="6.0">
+                    <children>
+                        <Label text="Tasks" style="-fx-font-size: 16"/>
+                        <TableView fx:id="taskTable" prefHeight="300.0">
+                            <columns>
+                                <TableColumn fx:id="tIdCol" text="ID" prefWidth="140"/>
+                                <TableColumn fx:id="tDescCol" text="Description" prefWidth="220"/>
+                                <TableColumn fx:id="tAssigneeCol" text="Assignee" prefWidth="120"/>
+                                <TableColumn fx:id="tStatusCol" text="Status" prefWidth="100"/>
+                            </columns>
+                        </TableView>
+                        <Label text="Log" style="-fx-font-size: 16"/>
+                        <TextArea fx:id="logArea" prefRowCount="10"/>
+                    </children>
+                    <padding><Insets top="8" left="8" right="8" bottom="8"/></padding>
+                </VBox>
+            </items>
+        </SplitPane>
+    </center>
+</BorderPane>

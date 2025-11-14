@@ -1,0 +1,69 @@
+[VEHICLE:22] 2025-11-14T15:17:49.9271974+01:00 created
+[VEHICLE:22] 2025-11-14T15:18:35.0475199+01:00  Battery low (10%). 22 going to Default_Station_1 for charging...
+[VEHICLE:22] 2025-11-14T15:18:35.0545585+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:22] 2025-11-14T15:18:35.0615601+01:00  Battery low (10%). 22 going to Default_Station_2 for charging...
+[VEHICLE:22] 2025-11-14T15:18:55.0702505+01:00 🔌 22 charging at Default_Station_2... Battery now 15%
+[VEHICLE:22] 2025-11-14T15:18:55.0752445+01:00 🔌 22 charging at Default_Station_2... Battery now 20%
+[VEHICLE:22] 2025-11-14T15:19:15.0819184+01:00 🔌 22 charging at Default_Station_2... Battery now 25%
+[VEHICLE:22] 2025-11-14T15:19:15.0819184+01:00 🔌 22 charging at Default_Station_2... Battery now 30%
+[VEHICLE:22] 2025-11-14T15:19:35.0965951+01:00 🔌 22 charging at Default_Station_2... Battery now 40%
+[VEHICLE:22] 2025-11-14T15:19:35.0965951+01:00 🔌 22 charging at Default_Station_2... Battery now 35%
+[VEHICLE:22] 2025-11-14T15:19:55.1043308+01:00 🔌 22 charging at Default_Station_2... Battery now 45%
+[VEHICLE:22] 2025-11-14T15:19:55.1053946+01:00 🔌 22 charging at Default_Station_2... Battery now 45%
+[VEHICLE:22] 2025-11-14T15:20:15.1196203+01:00 🔌 22 charging at Default_Station_2... Battery now 50%
+[VEHICLE:22] 2025-11-14T15:20:15.1196203+01:00 🔌 22 charging at Default_Station_2... Battery now 55%
+[VEHICLE:22] 2025-11-14T15:20:35.1296488+01:00 🔌 22 charging at Default_Station_2... Battery now 65%
+[VEHICLE:22] 2025-11-14T15:20:35.1286319+01:00 🔌 22 charging at Default_Station_2... Battery now 60%
+[VEHICLE:22] 2025-11-14T15:20:55.1359279+01:00 🔌 22 charging at Default_Station_2... Battery now 70%
+[VEHICLE:22] 2025-11-14T15:20:55.1359279+01:00 🔌 22 charging at Default_Station_2... Battery now 75%
+[VEHICLE:22] 2025-11-14T15:21:15.1433521+01:00 🔌 22 charging at Default_Station_2... Battery now 80%
+[VEHICLE:22] 2025-11-14T15:21:15.1513534+01:00 🔌 22 charging at Default_Station_2... Battery now 85%
+[VEHICLE:22] 2025-11-14T15:21:35.1591922+01:00 🔌 22 charging at Default_Station_2... Battery now 90%
+[VEHICLE:22] 2025-11-14T15:21:35.1602078+01:00 🔌 22 charging at Default_Station_2... Battery now 90%
+[VEHICLE:22] 2025-11-14T15:21:55.1721596+01:00 🔌 22 charging at Default_Station_2... Battery now 95%
+[VEHICLE:22] 2025-11-14T15:21:55.1721596+01:00 🔌 22 charging at Default_Station_2... Battery now 95%
+[VEHICLE:22] 2025-11-14T15:22:15.1823853+01:00 🔌 22 charging at Default_Station_2... Battery now 100%
+[VEHICLE:22] 2025-11-14T15:22:15.1843907+01:00 🔌 22 charging at Default_Station_2... Battery now 100%
+[VEHICLE:22] 2025-11-14T15:22:15.1863921+01:00  22 fully charged and ready to resume tasks.
+[VEHICLE:22] 2025-11-14T15:22:35.2112926+01:00 Battery drop after auto-distribution: 100% → 90%
+[VEHICLE:22] 2025-11-14T15:22:55.2212164+01:00 Battery drop after auto-distribution: 90% → 80%
+[VEHICLE:22] 2025-11-14T15:23:15.2397567+01:00 Battery drop after auto-distribution: 80% → 70%
+[VEHICLE:22] 2025-11-14T15:23:35.2481138+01:00 Battery drop after auto-distribution: 70% → 60%
+[VEHICLE:22] 2025-11-14T15:23:55.2680546+01:00 Battery drop after auto-distribution: 60% → 50%
+[VEHICLE:22] 2025-11-14T15:24:15.2819714+01:00 Battery drop after auto-distribution: 50% → 40%
+[VEHICLE:22] 2025-11-14T15:24:35.2878154+01:00 Battery drop after auto-distribution: 40% → 30%
+[VEHICLE:22] 2025-11-14T15:24:55.3061836+01:00 Battery drop after auto-distribution: 30% → 20%
+[VEHICLE:22] 2025-11-14T15:25:15.3153349+01:00  Battery low (10%). 22 going to Default_Station_2 for charging...
+[VEHICLE:22] 2025-11-14T15:25:15.3173222+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:22] 2025-11-14T15:25:15.3203298+01:00  Battery low (10%). 22 going to Default_Station_3 for charging...
+[VEHICLE:22] 2025-11-14T15:25:35.3283683+01:00 🔌 22 charging at Default_Station_3... Battery now 15%
+[VEHICLE:22] 2025-11-14T15:25:35.3283683+01:00 🔌 22 charging at Default_Station_3... Battery now 20%
+[VEHICLE:22] 2025-11-14T15:25:55.3392646+01:00 🔌 22 charging at Default_Station_3... Battery now 30%
+[VEHICLE:22] 2025-11-14T15:25:55.3392646+01:00 🔌 22 charging at Default_Station_3... Battery now 25%
+[VEHICLE:22] 2025-11-14T15:26:15.3437461+01:00 🔌 22 charging at Default_Station_3... Battery now 40%
+[VEHICLE:22] 2025-11-14T15:26:15.3457734+01:00 🔌 22 charging at Default_Station_3... Battery now 35%
+[VEHICLE:22] 2025-11-14T15:26:35.3539167+01:00 🔌 22 charging at Default_Station_3... Battery now 45%
+[VEHICLE:22] 2025-11-14T15:26:35.3529138+01:00 🔌 22 charging at Default_Station_3... Battery now 45%
+[VEHICLE:22] 2025-11-14T15:26:55.3599441+01:00 🔌 22 charging at Default_Station_3... Battery now 50%
+[VEHICLE:22] 2025-11-14T15:26:55.3599441+01:00 🔌 22 charging at Default_Station_3... Battery now 55%
+[VEHICLE:22] 2025-11-14T15:27:15.3773822+01:00 🔌 22 charging at Default_Station_3... Battery now 65%
+[VEHICLE:22] 2025-11-14T15:27:15.3773822+01:00 🔌 22 charging at Default_Station_3... Battery now 60%
+[VEHICLE:22] 2025-11-14T15:27:35.3958195+01:00 🔌 22 charging at Default_Station_3... Battery now 70%
+[VEHICLE:22] 2025-11-14T15:27:35.3968573+01:00 🔌 22 charging at Default_Station_3... Battery now 70%
+[VEHICLE:22] 2025-11-14T15:27:55.4093094+01:00 🔌 22 charging at Default_Station_3... Battery now 75%
+[VEHICLE:22] 2025-11-14T15:27:55.4093094+01:00 🔌 22 charging at Default_Station_3... Battery now 75%
+[VEHICLE:22] 2025-11-14T15:28:15.4152852+01:00 🔌 22 charging at Default_Station_3... Battery now 85%
+[VEHICLE:22] 2025-11-14T15:28:15.4162923+01:00 🔌 22 charging at Default_Station_3... Battery now 80%
+[VEHICLE:22] 2025-11-14T15:28:35.4176977+01:00 🔌 22 charging at Default_Station_3... Battery now 90%
+[VEHICLE:22] 2025-11-14T15:28:35.4176977+01:00 🔌 22 charging at Default_Station_3... Battery now 90%
+[VEHICLE:22] 2025-11-14T15:28:55.4371886+01:00 🔌 22 charging at Default_Station_3... Battery now 100%
+[VEHICLE:22] 2025-11-14T15:28:55.4403124+01:00  22 fully charged and ready to resume tasks.
+[VEHICLE:22] 2025-11-14T15:28:55.4382633+01:00 🔌 22 charging at Default_Station_3... Battery now 95%
+[VEHICLE:22] 2025-11-14T15:29:15.4610915+01:00 Battery drop after auto-distribution: 100% → 90%
+[VEHICLE:22] 2025-11-14T15:29:35.4695764+01:00 Battery drop after auto-distribution: 90% → 80%
+[VEHICLE:22] 2025-11-14T15:29:55.488327+01:00 Battery drop after auto-distribution: 80% → 70%
+[VEHICLE:22] 2025-11-14T15:30:15.5010764+01:00 Battery drop after auto-distribution: 70% → 60%
+[VEHICLE:22] 2025-11-14T15:30:35.5114256+01:00 Battery drop after auto-distribution: 60% → 50%
+[VEHICLE:22] 2025-11-14T15:30:55.5202005+01:00 Battery drop after auto-distribution: 50% → 40%
+[VEHICLE:22] 2025-11-14T15:31:15.5448123+01:00 Battery drop after auto-distribution: 40% → 30%
+[VEHICLE:22] 2025-11-14T15:31:35.5648487+01:00 Battery drop after auto-distribution: 30% → 20%

@@ -1,0 +1,77 @@
+path,createdUtc,kind,notes
+data\logs\system\2025-11-07.log,2025-11-07T15:09:42.428849800Z,LOG,created
+data\logs\vehicles\aa\2025-11-07.log,2025-11-07T15:09:42.449991200Z,LOG,created
+data\logs\vehicles\qq\2025-11-07.log,2025-11-07T16:04:21.319641400Z,LOG,created
+data\logs\vehicles\ww\2025-11-07.log,2025-11-07T16:34:31.098084600Z,LOG,created
+data\logs\vehicles\ee\2025-11-07.log,2025-11-07T16:41:59.923567500Z,LOG,created
+data\logs\vehicles\Van_Beta\2025-11-07.log,2025-11-07T17:19:46.660147Z,LOG,created
+data\logs\vehicles\Van_Test\2025-11-07.log,2025-11-07T17:20:12.058853400Z,LOG,created
+data\logs\charging\Station_A\2025-11-07.log,2025-11-07T17:20:12.063850Z,LOG,created
+data\logs\vehicles\Van_TestFind\2025-11-07.log,2025-11-07T17:20:12.067847500Z,LOG,created
+data\logs\charging\Station_A\2025-11-07.log,2025-11-07T17:21:00.693408700Z,LOG,created
+data\logs\vehicles\Van_Items\2025-11-07.log,2025-11-07T17:22:49.349411300Z,LOG,created
+data\logs\vehicles\paracetamol\2025-11-07.log,2025-11-07T17:40:25.214947100Z,LOG,created
+data\logs\vehicles\elena\2025-11-07.log,2025-11-07T18:10:44.470457600Z,LOG,created
+data\logs\system\2025-11-11.log,2025-11-11T22:24:37.609256Z,LOG,created
+data\logs\vehicles\qq\2025-11-11.log,2025-11-11T22:24:37.616433500Z,LOG,created
+data\logs\vehicles\ww\2025-11-11.log,2025-11-11T22:24:41.395498200Z,LOG,created
+data\logs\vehicles\ee\2025-11-11.log,2025-11-11T22:24:47.603083600Z,LOG,created
+data\logs\vehicles\rr\2025-11-11.log,2025-11-11T22:25:35.402288800Z,LOG,created
+data\logs\system\2025-11-12.log,2025-11-11T23:05:35.788371500Z,LOG,created
+data\logs\vehicles\qq\2025-11-12.log,2025-11-11T23:05:35.791371500Z,LOG,created
+data\logs\vehicles\ww\2025-11-12.log,2025-11-11T23:05:46.192411800Z,LOG,created
+data\logs\vehicles\dd\2025-11-12.log,2025-11-11T23:07:43.156406400Z,LOG,created
+data\logs\vehicles\rr\2025-11-12.log,2025-11-11T23:10:08.259148100Z,LOG,created
+data\logs\vehicles\Vehicle_4\2025-11-12.log,2025-11-12T22:28:27.219904200Z,LOG,created
+data\logs\vehicles\Van Two\2025-11-12.log,2025-11-12T22:29:10.516786900Z,LOG,created
+data\logs\vehicles\Van Three\2025-11-12.log,2025-11-12T22:29:10.515785700Z,LOG,created
+data\logs\vehicles\Van One\2025-11-12.log,2025-11-12T22:29:10.516786900Z,LOG,created
+data\logs\vehicles\Vehicle_5\2025-11-12.log,2025-11-12T22:54:19.491042100Z,LOG,created
+data\logs\vehicles\Vehicle_6\2025-11-12.log,2025-11-12T22:58:27.208715800Z,LOG,created
+data\logs\vehicles\Vehicle_5\2025-11-13.log,2025-11-12T23:00:15.509654800Z,LOG,created
+data\logs\vehicles\Vehicle_4\2025-11-13.log,2025-11-12T23:00:15.509654800Z,LOG,created
+data\archive\logs-20251113-002928.zip,2025-11-12T23:29:28.315649500Z,ARCHIVE,archived data\logs
+data\logs\system\2025-11-13.log,2025-11-12T23:31:47.213678500Z,LOG,created
+data\logs\vehicles\Van Two\2025-11-13.log,2025-11-12T23:32:07.265355200Z,LOG,created
+data\logs\vehicles\Van One\2025-11-13.log,2025-11-12T23:32:07.265355200Z,LOG,created
+data\logs\vehicles\Van Three\2025-11-13.log,2025-11-12T23:32:07.265355200Z,LOG,created
+data\logs\vehicles\Vehicle_6\2025-11-13.log,2025-11-12T23:37:27.602853900Z,LOG,created
+data\logs\vehicles\Vehicle_7\2025-11-13.log,2025-11-12T23:46:41.655753800Z,LOG,created
+data\logs\vehicles\Vehicle_8\2025-11-13.log,2025-11-12T23:46:44.686207500Z,LOG,created
+data\logs\vehicles\Vehicle_9\2025-11-13.log,2025-11-12T23:46:52.464404400Z,LOG,created
+2025-11-07.log,2025-11-13T16:22:36.302421100Z,DELETE,deleted
+data\archive\logs-20251113-172314.zip,2025-11-13T16:23:14.676161200Z,ARCHIVE,archived data\logs
+C:\Users\ElenaKina\Desktop\MedicalStorageConcurrency\data\logs\system\2025-11-13.log,2025-11-13T16:25:43.137474900Z,DELETE,deleted
+C:\Users\ElenaKina\Desktop\MedicalStorageConcurrency\data\logs\system\2025-11-12.log,2025-11-13T16:26:11.782400800Z,DELETE,deleted
+data\logs\system\2025-11-13.log,2025-11-13T16:28:14.181135600Z,LOG,created
+C:\Users\ElenaKina\Desktop\New folder,2025-11-13T16:30:34.594756900Z,MOVE,moved from C:\Users\ElenaKina\Desktop\MedicalStorageConcurrency\data\logs\system\2025-11-11.log
+C:\Users\ElenaKina\Desktop\New folder,2025-11-13T16:31:37.680837400Z,MOVE,moved from C:\Users\ElenaKina\Desktop\MedicalStorageConcurrency\data\logs\vehicles\aa
+data\logs\system\2025-11-14.log,2025-11-13T23:33:55.185306900Z,LOG,created
+data\logs\vehicles\Van_Beta\2025-11-14.log,2025-11-13T23:33:55.200862400Z,LOG,created
+data\logs\vehicles\Van_Items\2025-11-14.log,2025-11-13T23:33:55.224011400Z,LOG,created
+data\logs\vehicles\Van_Test\2025-11-14.log,2025-11-13T23:33:55.310277100Z,LOG,created
+data\logs\charging\Station_A\2025-11-14.log,2025-11-13T23:33:55.314277Z,LOG,created
+data\logs\vehicles\Van_TestFind\2025-11-14.log,2025-11-13T23:33:55.318305100Z,LOG,created
+data\logs\vehicles\Vehicle_4\2025-11-14.log,2025-11-14T01:33:14.368678600Z,LOG,created
+data\logs\vehicles\Vehicle_5\2025-11-14.log,2025-11-14T01:33:57.402078100Z,LOG,created
+data\logs\vehicles\Van Two\2025-11-14.log,2025-11-14T01:33:57.599428600Z,LOG,created
+data\logs\vehicles\Van One\2025-11-14.log,2025-11-14T01:33:57.600454500Z,LOG,created
+data\logs\vehicles\Van Three\2025-11-14.log,2025-11-14T01:33:57.605450Z,LOG,created
+data\logs\vehicles\ee\2025-11-14.log,2025-11-14T10:22:51.201132800Z,LOG,created
+data\logs\system\2025-11-14.log,2025-11-14T14:03:35.558257600Z,LOG,created
+data\logs\vehicles\Van One\2025-11-14.log,2025-11-14T14:03:55.632182900Z,LOG,created
+data\logs\vehicles\Van Two\2025-11-14.log,2025-11-14T14:03:55.632182900Z,LOG,created
+data\logs\vehicles\Van Three\2025-11-14.log,2025-11-14T14:03:55.632182900Z,LOG,created
+data\logs\vehicles\Vehicle_4\2025-11-14.log,2025-11-14T14:04:21.094581800Z,LOG,created
+data\logs\vehicles\Vehicle_5\2025-11-14.log,2025-11-14T14:05:18.840197200Z,LOG,created
+data\archive\logs-20251114-150623.zip,2025-11-14T14:06:23.372611900Z,ARCHIVE,archived data\logs
+data\archive\logs-20251114-151207.zip,2025-11-14T14:12:07.881090500Z,ARCHIVE,archived data\logs
+C:\Users\ElenaKina\Desktop\New folder,2025-11-14T14:12:48.807649500Z,MOVE,moved from C:\Users\ElenaKina\Desktop\MedicalStorageConcurrency\data\logs\vehicles\Van One\2025-11-14.log
+data\logs\vehicles\22\2025-11-14.log,2025-11-14T14:17:49.931193900Z,LOG,created
+data\logs\vehicles\ee\2025-11-14.log,2025-11-14T14:33:58.195598500Z,LOG,created
+data\logs\vehicles\ww\2025-11-14.log,2025-11-14T14:39:16.386780Z,LOG,created
+data\logs\charging\Default_Station_1\2025-11-14.log,2025-11-14T14:42:30.344889100Z,LOG,created
+data\logs\charging\Default_Station_2\2025-11-14.log,2025-11-14T14:42:30.361877300Z,LOG,created
+data\logs\charging\Default_Station_3\2025-11-14.log,2025-11-14T14:42:30.372877600Z,LOG,created
+data\logs\vehicles\Van One\2025-11-14.log,2025-11-14T14:42:30.373887300Z,LOG,created
+data\logs\charging\QUEUE\2025-11-14.log,2025-11-14T14:42:30.381992400Z,LOG,created
